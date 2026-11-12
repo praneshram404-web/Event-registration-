@@ -1,0 +1,16 @@
+id,name,phone,email,year,branch
+R01,Priya K,9840012345,priya.k@gmail.com,2,CSE
+R02,Arun Kumar,9876543210,arun.kumar@yahoo.com,3,ECE
+R03,Karthik V,9123456789,karthik.v@gmail.com,1,IT
+R04,Meena S,9000000004,meena.s@example.com,4,AIDS
+R05,Ravi P,9000000005,ravi.p@example.com,2,MECH
+R06,Divya R,9000000006,divya.r@example.com,3,CSE
+R07,Suresh K,9000000007,suresh.k@example.com,1,EEE
+R08,Anu M,9000000008,anu.m@example.com,2,CIVIL
+R09,Hari V,9000000009,hari.v@example.com,4,ECE
+R10,Nila T,9000000010,nila.t@example.com,1,IT
+R11,Bala R,9000000011,bala.r@example.com,2,CSE
+R12,Jaya P,9000000012,jaya.p@example.com,3,AIDS
+R13,Kumar S,9000000013,kumar.s@example.com,4,EEE
+R14,Leela N,9000000014,leela.n@example.com,2,CIVIL
+R15,Dev A,9000000015,dev.a@example.com,1,MECH

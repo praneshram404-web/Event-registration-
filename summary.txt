@@ -1,0 +1,21 @@
+EVENT REGISTRATION SUMMARY
+===========================
+Total entries: 20
+valid: 15
+needs_fix: 4
+duplicate: 1
+
+VALID REGISTRATIONS BY BRANCH
+AIDS: 2
+CIVIL: 2
+CSE: 3
+ECE: 2
+EEE: 2
+IT: 2
+MECH: 2
+
+VALID REGISTRATIONS BY YEAR
+Year 1: 4
+Year 2: 5
+Year 3: 3
+Year 4: 3

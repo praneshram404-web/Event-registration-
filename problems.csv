@@ -1,0 +1,6 @@
+id,status,reasons,original,name,phone,email,year,branch
+R16,duplicate,Duplicate of R01,"Name: Priya K, phone 9840012345, email priya.k@gmail.com, 2nd year CSE",Priya K,9840012345,priya.k@gmail.com,2,CSE
+R17,needs_fix,Invalid or missing phone,"Name: Manoj, phone 12345, email manoj@example.com, 2nd year CSE",Manoj,,manoj@example.com,2,CSE
+R18,needs_fix,Invalid or missing email,"Name: Farah, phone 9000000018, email farah at example dot com, 3rd year IT",Farah,9000000018,,3,IT
+R19,needs_fix,Invalid or missing branch,"Name: Gopi, phone 9000000019, email gopi@example.com, final year BIO",Gopi,9000000019,gopi@example.com,4,other
+R20,needs_fix,Invalid or missing year,"Name: Tara, phone 9000000020, email tara@example.com, 5th year ECE",Tara,9000000020,tara@example.com,,ECE
